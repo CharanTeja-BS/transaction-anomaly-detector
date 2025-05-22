@@ -23,3 +23,5 @@ This project detects anomalous financial transactions using a neural network cla
 - MongoDB is used for storing transaction data.
 - TensorFlow/Keras is used for the MLP anomaly detector.
 - Streamlit serves a user-friendly interactive interface.
+
+# Thank YOU 🫶
