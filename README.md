@@ -24,4 +24,11 @@ This project detects anomalous financial transactions using a neural network cla
 - TensorFlow/Keras is used for the MLP anomaly detector.
 - Streamlit serves a user-friendly interactive interface.
 
+## Refernces 
+
+![Image 1](Screenshot 2025-05-22 221630.png)
+
+![Image 1](Screenshot 2025-05-22 221655.png)
+
+
 # Thank YOU 🫶
