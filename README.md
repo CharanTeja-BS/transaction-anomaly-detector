@@ -26,9 +26,9 @@ This project detects anomalous financial transactions using a neural network cla
 
 ## Refernces 
 
-![Image 1](Screenshot 2025-05-22 221630.png)
+<img src="https://github.com/CharanTeja-BS/transaction-anomaly-detector/blob/main/Screenshot%202025-05-22%20221630.png" alt="Project Image 1" width="600"/>
 
-![Image 1](Screenshot 2025-05-22 221655.png)
+<img src="https://github.com/CharanTeja-BS/transaction-anomaly-detector/blob/main/Screenshot%202025-05-22%20221655.png" alt="Project Image 2" width="600"/>
 
 
 # Thank YOU 🫶
